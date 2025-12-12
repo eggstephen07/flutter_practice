@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
                   height :50,
                 ),
                 CircleAvatar(
-                  radius:  10,
+                  radius:  100,
                   backgroundImage: AssetImage('image/456.jpg'),
                 ),
                 const SizedBox(
