@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-          backgroundColor: Colors.grey,//背景顏色
+          backgroundColor: Colors.blue,//背景顏色
           body:Center(
             child: Column(//選擇顯示方式:alt+enter
               children: [
